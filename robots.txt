@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-akqgqe.prompt-gacha.com/sitemap.xml
